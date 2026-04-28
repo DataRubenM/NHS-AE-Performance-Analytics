@@ -28,28 +28,28 @@ The project covers the full analytics workflow — from raw data cleaning and SQ
 ### Page 1 — Overview
 High-level summary of NHS A&E performance across the full 2010–2026 period including total attendances, 4-hour performance trend and the 95% NHS standard target line.
 
-![Overview](screenshots/page1_overview.jpg)
+![Overview](NHS%20A%26E%20Performance%20Analytics%20Overview.jpg)
 
 ---
 
 ### Page 2 — Performance Deep Dive
 Detailed breakdown of 4-hour and 12-hour breach trends, attendance volumes by department type (Major A&E, Single Specialty, Minor Injuries Unit) and performance by department type.
 
-![Performance Deep Dive](screenshots/page2_performance.jpg)
+![Performance Deep Dive](Performance%20Deep%20Dive.jpg)
 
 ---
 
 ### Page 3 — COVID Impact
 Focused analysis of the 2019–2021 period showing the dramatic attendance drop during lockdown, performance changes during COVID and the sharp rise in 12-hour waits through 2021.
 
-![COVID Impact](screenshots/page3_covid.jpg)
+![COVID Impact](COVID%20impact.jpg)
 
 ---
 
 ### Page 4 — Emergency Admissions
 Analysis of emergency admission trends, admissions via A&E vs other routes and the admission rate as a percentage of total attendances over time.
 
-![Emergency Admissions](screenshots/page4_admissions.jpg)
+![Emergency Admissions](Emergency%20Admissions.jpg)
 
 ---
 
